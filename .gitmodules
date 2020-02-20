@@ -1,4 +1,4 @@
-[submodule "src/components/react-datepicker"]
-	path = src/components/react-datepicker
+[submodule "src/components/DatePicker"]
+	path = src/components/DatePicker
 	url = https://github.com/taejs/react-datepicker
-	branch = devlop
+	branch = develop
